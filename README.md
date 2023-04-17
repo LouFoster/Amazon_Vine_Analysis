@@ -52,6 +52,7 @@ To create the customers_table, use the code in the Amazon_Reviews_ETL_starter_co
 
 •	The final customers_table DataFrame should look like this:
 ![image](https://user-images.githubusercontent.com/117233641/232493012-3df57187-6768-45b3-ab8c-bcd02c01e535.png)
+![image](https://user-images.githubusercontent.com/117233641/232493948-f5e5879a-28f3-43f0-8fe1-c187b2c96cdd.png)
 
 
 The products_table DataFrame
