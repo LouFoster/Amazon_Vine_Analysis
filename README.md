@@ -51,6 +51,7 @@ To create the customers_table, use the code in the Amazon_Reviews_ETL_starter_co
 •	Rename the count(customer_id) column using the withColumnRenamed() function so it matches the schema for the customers_table in pgAdmin.
 
 •	The final customers_table DataFrame should look like this:
+![image](https://user-images.githubusercontent.com/117233641/232493012-3df57187-6768-45b3-ab8c-bcd02c01e535.png)
 
 
 The products_table DataFrame
