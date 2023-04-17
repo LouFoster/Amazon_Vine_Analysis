@@ -66,7 +66,8 @@ The final review_id_table DataFrame should look like this:
 The vine_table DataFrame
 To create the vine_table, use the select() function to select only the columns that are in the vine_table in pgAdmin (as shown in the following image).
 The final vine_table DataFrame should look like this:
- 
+ ![image](https://user-images.githubusercontent.com/117233641/232518943-fab3c947-5a9d-4b1d-891f-b85b35bf08e9.png)
+
 Load the DataFrames into pgAdmin
 1.	Make the connection to your AWS RDS instance.
 2.	Load the DataFrames that correspond to tables in pgAdmin.
